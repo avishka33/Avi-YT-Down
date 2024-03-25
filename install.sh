@@ -1,9 +1,9 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-# Project name : Termux-YTD
-# Coded by: Khansaad1275 (You dont become a coder by just changing the credits)
-# Github: https://github.com/khansaad1275/Termux-YTD
-# Date : 14/4/2020
+# Project name : Avi-YT-Down
+# Coded by: Avishka shavinda  (You dont become a coder by just changing the credits)
+# Github: https://github.com/avishka33/Avi-YT-Down
+# Date : 25/3/2024
 
 #Probably make a varible with the file name 
 #make it more easy to update!
@@ -37,4 +37,4 @@ chmod +x ~/bin/termux-url-opener
 echo -e "\n"
 echo -e "\e[032m" "Process Complete!"
 echo -e "\e[032m" "Now you can share any Youtube video with Termux and you will be ask to select the quality of your downloaded video and after that,It will be automatically Downloaded. If You will share shorts, it will be download automatically."
-echo -e "\e[033m" "For More Awesome and Useful Tool like this Visit My website ©www.LearnTermux.tech"
+echo -e "\e[033m" "For More Awesome and Useful Tool like this Avinethunter"
