@@ -1,12 +1,12 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-# AVI-YT-DOWN
-# BY Avishka shavinda <Real king Avi>
+# TERMUX-YTD 2.0
+# BY Avishka shavinda 
 # GITHUB.COM/Avishka33
 
-# SETTINGS THAT YOU CAN'T CHANGE-----
+# SETTINGS THAT YOU CAN CHANGE-----
 
-fpath='/data/data/com.termux/files/home/storage/shared/YoutubeAvidl/%(title)s.%(ext)s'
+fpath='/data/data/com.termux/files/home/storage/shared/Youtube/%(title)s.%(ext)s'
 
 # ----------
 
@@ -20,16 +20,16 @@ else
 fi
 
 
-echo -e "\e[031m" "    == REAL KING ="
-echo -e "\e[031m" " █─   AVI________"
-echo -e "\e[031m" "  AVI HACKER's TEAM ✓ "
-echo -e "\e[031m" "  █────▀────█       Check out my Github"
-echo -e "\e[031m" "  █────▀────█       For More info...   "
+echo -e "\e[031m" " ▄ █   ▄▀▀▀▀▀▄   █ ▄   == Termux-YTD 2.0 ="
+echo -e "\e[031m" "▄▄▀▄   █─▀─▀─█  ▄▀▄▄   With Enhanced Speed"
+echo -e "\e[031m" "     ▀▄▒▒▒▒▒▒▒▒▒▄▀    --------------------"
+echo -e "\e[031m" "     █────▀────█       Check out my Github"
+echo -e "\e[031m" "     █────▀────█       For More info...   "
 echo -e "\e[036m" "╔════════════════════════════════════════╗"                                                                          
-echo -e "\e[032m" "║ ♚ Project Name : Avi-Yt-Down       ║"
-echo -e "\e[032m" "║ ♚ Author : Avishka shavinda        ║"
-echo -e "\e[032m" "║ ♚ Github : Avishka33"
-echo -e "\e[032m" "║ ♚ youtube : https://youtube.com/@Avi_NetHunter?sub_confirmation=1       ║"
+echo -e "\e[032m" "║ ♚ Project Name : 🆃🅴🆁🅼🆄🆇-🆈🆃🅳 2.0™        ║"
+echo -e "\e[032m" "║ ♚ Author : Avishka shavinda                ║"
+echo -e "\e[032m" "║ ♚ Github :Avishka33   ║"
+echo -e "\e[032m" "║ ♚ Youtube  :     https://youtube.com/@Avi_NetHunter?sub_confirmation=1 ║"
 echo -e "\e[036m" "╠════════════════════════════════════════╝"
 echo -e "\e[036m" "╠═▶ [𝗦𝗲𝗹𝗲𝗰𝘁 𝗔 𝗙𝗼𝗿𝗺𝗮𝘁]  ➳"
 echo -e "\e[032m" "╠═▶ 1. Music Mp3♫"
@@ -38,7 +38,7 @@ echo -e "\e[032m" "╠═▶ 3. Video 480p"
 echo -e "\e[032m" "╠═▶ 4. Video 720p"
 echo -e "\e[032m" "╠═▶ 5. Video 1080p"
 echo -e "\e[032m" "╠═▶ 6. Video 2160p"
-echo -e "\e[032m" "╠═▶ 7. Exit Avi-Yt-Down" 
+echo -e "\e[032m" "╠═▶ 7. Exit Termux-YTD" 
 echo -e "\e[032m" "╠═▶ A. About." 
 printf "\e[032m ╚═:➤ \e[0m "
 read choice
@@ -74,10 +74,9 @@ case $choice in
 	;;
 	
 	A|a)
-	echo "Hello this is Saad! , Avi-yt-down is a light weight tool to download any kind of Video, Music or shorts from Youtube with 2 clicks on your phone using Termux. For more information and tools you can check out my youtube Avi_nethunter Visit for more termux releted containts"
+	echo "Hello this is Saad! , Termux-YTD2.0 is a light weight tool to download any kind of Video, Music or shorts from Youtube with 2 clicks on your phone using Termux. For more information and tools you can check out my github https://github.com/khansaad1275/Termux-YTD2.0. Visit my website LEARNTERMUX.TECH for more termux releted containts"
 	;;
 	
 	*)
 	yt-dlp -f 'best[height<=2160]' -o $path $1 
 esac
-
