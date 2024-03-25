@@ -6,7 +6,7 @@
 ```
 termux-setup-storage
 ```
-_____________________+++REAL KING AVI+++_
+________________+++REAL KING AVI+++_
 
 ```
 
