@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-# TERMUX-YTD 2.0
+# Avi-YT-Down
 # BY Avishka shavinda 
 # GITHUB.COM/Avishka33
 
@@ -28,7 +28,7 @@ echo -e "\e[031m" "     █────▀────█       For More info...
 echo -e "\e[036m" "╔════════════════════════════════════════╗"                                                                          
 echo -e "\e[032m" "║ ♚ Project Name : 🆃🅴🆁🅼🆄🆇-🆈🆃🅳 2.0™        ║"
 echo -e "\e[032m" "║ ♚ Author : Avishka shavinda                ║"
-echo -e "\e[032m" "║ ♚ Github :Avishka33   ║"
+echo -e "\e[032m" "║ ♚ Github :https://github.com/avishka33/Avi-YT-Down  ║"
 echo -e "\e[032m" "║ ♚ Youtube  :     https://youtube.com/@Avi_NetHunter?sub_confirmation=1 ║"
 echo -e "\e[036m" "╠════════════════════════════════════════╝"
 echo -e "\e[036m" "╠═▶ [𝗦𝗲𝗹𝗲𝗰𝘁 𝗔 𝗙𝗼𝗿𝗺𝗮𝘁]  ➳"
@@ -74,7 +74,7 @@ case $choice in
 	;;
 	
 	A|a)
-	echo "Hello this is Saad! , Termux-YTD2.0 is a light weight tool to download any kind of Video, Music or shorts from Youtube with 2 clicks on your phone using Termux. For more information and tools you can check out my github https://github.com/khansaad1275/Termux-YTD2.0. Visit my website LEARNTERMUX.TECH for more termux releted containts"
+	echo "Hello this is Saad! , Termux-YTD2.0 is a light weight tool to download any kind of Video, Music or shorts from Youtube with 2 clicks on your phone using Termux. For more information and tools you can check out my github https://github.com/avishka33/Avi-YT-Down. Visit my website LEARNTERMUX.TECH for more termux releted containts"
 	;;
 	
 	*)
